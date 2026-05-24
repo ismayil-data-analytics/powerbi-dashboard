@@ -18,4 +18,4 @@ This project analyzes business data to provide insights into cost, income, reven
 To turn raw data into meaningful business insights.
 
 ## Preview
-![Dashboard](FOTONUN_ADI.png)
+![Dashboard]({2000EAF6-152F-46AB-BBCF-7FDD7FFB1157}.png)
